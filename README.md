@@ -1,16 +1,32 @@
-### Hi there 👋
 
-<!--
-**Abh-iram/Abh-iram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">👋 Hi, I’m @Abh-iram</h1>
+<h4 align="center">Self learned Web Developer | Student</h4>
 
-Here are some ideas to get you started:
+<!-- <div align="center" >
+  <img   src="https://github-readme-stats.vercel.app/api?username=Abh-iram&show_icons=true&theme=radical" />
+  <img  style="display:flex;align-item:center;" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh-iram&langs_count=8)](https://github.com/Abh-iram/github-readme-stats" />
+</div> -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <h2 align="left">📈Github Status</h2>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abh-iram&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abh-iram&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abh-iram&theme=github_dark">
+</div>
+
+
+  
+
+<!--- #LANGUAGES --->
+<div align="center" margin="2rem">
+  <h2 align="left">💻Skills</h2>
+
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+
+</div>
