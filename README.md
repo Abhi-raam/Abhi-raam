@@ -9,9 +9,9 @@
 
 <div align="center">
   <h2 align="left">📈Github Status</h2>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abh-iram&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abh-iram&theme=github_dark">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abh-iram&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-raam&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-raam&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-raam&theme=github_dark">
 </div>
 
 
