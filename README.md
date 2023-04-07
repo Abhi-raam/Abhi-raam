@@ -12,6 +12,7 @@
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abhi-raam&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abhi-raam&theme=github_dark">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhi-raam&theme=github_dark">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-raam&layout=compact)](https://github.com/Abhi-raam/github-readme-stats)
 </div>
 
 
