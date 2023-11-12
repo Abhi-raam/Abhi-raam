@@ -1,10 +1,11 @@
 
+<!--![EXAMPLE](https://github.com/Abhi-raam/Abhi-raam/assets/99189749/af7615d6-36bc-4279-9251-fb8ce89e6f10)-->
 <h1 align="center">👋 Hi, I’m @Abhi-raam</h1>
 <h4 align="center">Self learned Web Developer | Student</h4>
 
-<!-- <div align="center" >
-  <img   src="https://github-readme-stats.vercel.app/api?username=Abh-iram&show_icons=true&theme=radical" />
-  <img  style="display:flex;align-item:center;" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abh-iram&langs_count=8)](https://github.com/Abh-iram/github-readme-stats" />
+<!--<div align="center" >
+  <img   src="https://github-readme-stats.vercel.app/api?username=Abhi-raam&show_icons=true&theme=radical" />
+  <img  style="display:flex;align-item:center;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi-raam&langs_count=8" />
 </div> -->
 
 <div align="center">
@@ -38,9 +39,4 @@
   <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7">
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
-
-
-
-
-
 </div>
