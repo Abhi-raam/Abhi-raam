@@ -1,7 +1,7 @@
 
-<!--![EXAMPLE](https://github.com/Abhi-raam/Abhi-raam/assets/99189749/af7615d6-36bc-4279-9251-fb8ce89e6f10)-->
-<h1 align="center">👋 Hi, I’m @Abhi-raam</h1>
-<h4 align="center">Self learned Web Developer | Student</h4>
+![EXAMPLE](https://github.com/Abhi-raam/Abhi-raam/assets/99189749/af7615d6-36bc-4279-9251-fb8ce89e6f10)
+<!--<h1 align="center">👋 Hi, I’m @Abhi-raam</h1>
+<h4 align="center">Self learned Web Developer | Student</h4>-->
 
 <!--<div align="center" >
   <img   src="https://github-readme-stats.vercel.app/api?username=Abhi-raam&show_icons=true&theme=radical" />
